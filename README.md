@@ -1,4 +1,9 @@
 # Prac
+
+git config --global user.name = "Adarsh"
+git config --global unser.email = "asn.adarshsnair@gmail.com"
+git config --list
+
 Fork--
 git clone <repo-url>
 cd ClonedFileName
